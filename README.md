@@ -42,10 +42,6 @@ I'm currently building hands-on projects in **SQL, Data Modeling, Power BI, Pyth
 
 <p align="left">
 
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/3840px-New_Power_BI_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="powerbi" width="40" height="40" style="margin-right:15px;"/>
-</a>
-
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40" style="margin-right:15px;"/>
 </a>
@@ -68,6 +64,10 @@ I'm currently building hands-on projects in **SQL, Data Modeling, Power BI, Pyth
 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin-right:15px;"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/3840px-New_Power_BI_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="powerbi" width="40" height="40" style="margin-right:15px;"/>
 </a>
 
 </p>
@@ -94,8 +94,8 @@ I'm currently building hands-on projects in **SQL, Data Modeling, Power BI, Pyth
 
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:15px;"/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right:15px;"/>
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -106,8 +106,8 @@ I'm currently building hands-on projects in **SQL, Data Modeling, Power BI, Pyth
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right:15px;"/>
 </a>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right:15px;"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:15px;"/>
 </a>
 
 </p>
