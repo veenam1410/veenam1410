@@ -128,55 +128,27 @@ I'm currently building hands-on projects in **SQL, Data Modeling, Power BI, Pyth
 
 </p>
 
+---
+
 ## Featured Projects
 
 ### SQL Data Warehouse & Analytics
 
 A complete **SQL Data Warehouse** project following a **Bronze → Silver → Gold** architecture.
 
-**What I worked on:**
-- Designed a layered data warehouse architecture
-- Built ETL workflows using SQL
-- Cleaned and transformed raw data
-- Handled data quality issues and duplicates
-- Performed exploratory and business-oriented analysis
-
-**Skills:** `SQL` `Data Warehousing` `ETL` `Data Modeling` `Data Analytics`
-
 🔗 **[View Project](https://github.com/veenam1410/Brazilian-E-Commerce-Data-Warehouse-EDA-Advanced-Analytics-SQL)**
 
----
 
 ### Healthcare Data Model
 
 A data modeling project focused on designing an analytical model for **healthcare data**.
 
-**What I worked on:**
-- Identified business entities and relationships
-- Designed fact and dimension tables
-- Defined appropriate table grains
-- Created relationships between dimensions and facts
-- Built a structure suitable for analytical reporting
-
-**Skills:** `Data Modeling` `Power BI` `DAX` `SQL` `Dimensional Modeling`
-
 🔗 **[View Project](https://github.com/veenam1410/Healthcare-Data-Modeling-Power-BI)**
 
----
 
 ### Space Mission Analytics
 
 A data analytics project exploring **space mission data** to identify patterns and insights across missions, organizations, launch activity, and outcomes.
-
-**What I worked on:**
-- Cleaned and explored space mission data
-- Handled missing values using Extra Trees Model
-- Analyzed mission trends
-- Compared organizations and mission outcomes
-- Created meaningful analytical visualizations
-- Extracted insights from historical mission data
-
-**Skills:** `Python` `Pandas` `Data Analysis` `Data Visualization` `Power BI` `ML Algorithms`
 
 🔗 **[View Project](https://github.com/veenam1410/Space-Mission-Dataset-EDA)**
 
