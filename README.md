@@ -1,8 +1,4 @@
-# Hi, I'm Veena M 👋
-
-### Data Analyst | SQL • Python • Power BI • Excel | Turning Data into Insights
-
----
+## Hi, I'm Veena M 👋
 
 ## About Me
 
