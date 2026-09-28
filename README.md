@@ -153,4 +153,6 @@ A data analytics project exploring **space mission data** to identify patterns a
 🔗 **[View Project](https://github.com/veenam1410/Space-Mission-Dataset-EDA)**
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veenam1410&label=Profile%20views&color=0e75b6&style=flat" alt="veenam1410" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=veenam1410&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="veenam1410"/>
+</p>
